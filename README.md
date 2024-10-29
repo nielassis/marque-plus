@@ -19,6 +19,6 @@
 <p style="color: grey; font-size: 12px">Em Desenvolvimento</p>
 </h2>
 <div style="display:flex; flex-direction: row; gap: 15px">
-<img src="src/assets/InterfacesMobile.png">
+<img src="src/assets/InterfacesMobileDev.png">
 </div>
 </div>
