@@ -1,5 +1,8 @@
 # 📝 Marque + | Projeto de agendas médicas 
-<img src="src/assets/LogoMplus.png" width="35px">
+
+<div align="center">
+<img src="src/assets/LogoMplus.png" width="75px">
+</div>
 
 ## 🌐 Tecnologias Usadas
 
@@ -28,4 +31,4 @@
 ## Interfaces | Mobile 📱
 **Em Desenvolvimento**
 
-<img src="src/assets/InterfacesMobileDev.png" width="300px">
+<img src="src/assets/InterfacesMobileDev.png">
