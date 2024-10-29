@@ -18,9 +18,7 @@
 <h2>Interfaces | Mobile 📱<br>
 <p style="color: grey; font-size: 12px">Em Desenvolvimento</p>
 </h2>
-
 <div style="display:flex; flex-direction: row; gap: 15px">
-<img src="src/assets/InterfaceLogin.png" style="height: 150px"/>
-<img src="src/assets/InterfaceSignUp.png" style="height: 150px"/>
+  <img src="src/assets/InterfacesMobile.png"/>
 </div>
 </div>
