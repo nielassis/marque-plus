@@ -20,7 +20,7 @@
 </h2>
 
 <div style="display:flex; flex-direction: row; gap: 15px">
-<img src="src/assets/InterfaceLogin.png" />
-<img src="src/assets/InterfaceSignUp.png" />
+<img src="src/assets/InterfaceLogin.png" style="height: 150px"/>
+<img src="src/assets/InterfaceSignUp.png" style="height: 150px"/>
 </div>
 </div>
