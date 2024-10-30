@@ -1,6 +1,9 @@
+import { ImageSourcePropType } from "react-native"
+
 export default interface Doctor {
-    id_doctor: number,
+    id_doctor?: number,
     name: string,
     specialty: string
-    icon: string
+    type: string
+    icon: any
 }

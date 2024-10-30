@@ -1,11 +1,9 @@
-import { Text, View } from "react-native";
-
+import { Text, TouchableOpacity } from "react-native";
 
 export default function ButtonComponent(props: any) {
-
     return (
-        <View className="w-[314px] h-[55px] bg-[#1F41BB] flex justify-center items-center gap-[10px] rounded-[10px]">
+        <TouchableOpacity className="button-box flex justify-center items-center gap-[10px] bg-[#1F41BB] rounded-[10px] py-2 px-4">
             <Text className="text-[#FFF] font-bold text-[20px]">{props.title}</Text>
-        </View>
+        </TouchableOpacity>
     );
 }
